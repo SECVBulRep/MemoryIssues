@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CashCogerent", "01.CashC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TypeLocallity", "02.TypeLocallity\02.TypeLocallity.csproj", "{0838EDE0-CAF6-4979-8DAC-3ABF65287557}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.StructVsClass", "03.StructVsClass\03.StructVsClass.csproj", "{6772C6DB-800C-46C1-B302-B12AC1277D35}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0838EDE0-CAF6-4979-8DAC-3ABF65287557}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0838EDE0-CAF6-4979-8DAC-3ABF65287557}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0838EDE0-CAF6-4979-8DAC-3ABF65287557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6772C6DB-800C-46C1-B302-B12AC1277D35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6772C6DB-800C-46C1-B302-B12AC1277D35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6772C6DB-800C-46C1-B302-B12AC1277D35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6772C6DB-800C-46C1-B302-B12AC1277D35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
