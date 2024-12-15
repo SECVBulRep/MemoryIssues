@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using BenchmarkDotNet.Attributes;
 using BenchmarkDotNet.Running;
-
+// стр 360
 public class LocationClass
 {
     public double Latitude { get; set; }

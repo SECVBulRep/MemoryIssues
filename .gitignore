@@ -5,3 +5,7 @@
 /MemoryIssues/02.TypeLocallity/obj
 /MemoryIssues/03.StructVsClass/bin
 /MemoryIssues/03.StructVsClass/obj
+/MemoryIssues/04.ValueTuples/bin
+/MemoryIssues/04.ValueTuples/obj
+/MemoryIssues/05.Stackalloc/bin
+/MemoryIssues/05.Stackalloc/obj
