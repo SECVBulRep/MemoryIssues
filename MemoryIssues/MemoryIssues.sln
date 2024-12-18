@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ValueTuples", "04.ValueT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Stackalloc", "05.Stackalloc\05.Stackalloc.csproj", "{BAD7F844-F4CB-4EA1-B07F-27E4D5358FB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ArrayPool", "06.ArrayPool\06.ArrayPool.csproj", "{D1330924-856A-4863-B9EC-6593CB32EFB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.RecycleavleMemoryStream", "07.RecycleavleMemoryStream\07.RecycleavleMemoryStream.csproj", "{72426E4E-1950-44F8-83C9-BE5DBBE18360}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{BAD7F844-F4CB-4EA1-B07F-27E4D5358FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAD7F844-F4CB-4EA1-B07F-27E4D5358FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAD7F844-F4CB-4EA1-B07F-27E4D5358FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1330924-856A-4863-B9EC-6593CB32EFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1330924-856A-4863-B9EC-6593CB32EFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1330924-856A-4863-B9EC-6593CB32EFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1330924-856A-4863-B9EC-6593CB32EFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72426E4E-1950-44F8-83C9-BE5DBBE18360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72426E4E-1950-44F8-83C9-BE5DBBE18360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72426E4E-1950-44F8-83C9-BE5DBBE18360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72426E4E-1950-44F8-83C9-BE5DBBE18360}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
