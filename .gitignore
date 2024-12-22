@@ -15,3 +15,5 @@
 /MemoryIssues/07.RecycleavleMemoryStream/obj
 /MemoryIssues/08.ObjectPool/bin
 /MemoryIssues/08.ObjectPool/obj
+/MemoryIssues/09.ValueTask/obj
+/MemoryIssues/09.ValueTask/bin
