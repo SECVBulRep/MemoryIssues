@@ -9,3 +9,9 @@
 /MemoryIssues/04.ValueTuples/obj
 /MemoryIssues/05.Stackalloc/bin
 /MemoryIssues/05.Stackalloc/obj
+/MemoryIssues/06.ArrayPool/bin
+/MemoryIssues/06.ArrayPool/obj
+/MemoryIssues/07.RecycleavleMemoryStream/bin
+/MemoryIssues/07.RecycleavleMemoryStream/obj
+/MemoryIssues/08.ObjectPool/bin
+/MemoryIssues/08.ObjectPool/obj
