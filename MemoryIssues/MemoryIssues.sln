@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.ObjectPool", "08.ObjectP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.ValueTask", "09.ValueTask\09.ValueTask.csproj", "{6E60D468-30AE-4845-8351-128051550284}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ParamsArray", "10.ParamsArray\10.ParamsArray.csproj", "{44B89AEB-F69C-47C6-A87F-20C67AEFDDCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{6E60D468-30AE-4845-8351-128051550284}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E60D468-30AE-4845-8351-128051550284}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E60D468-30AE-4845-8351-128051550284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B89AEB-F69C-47C6-A87F-20C67AEFDDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B89AEB-F69C-47C6-A87F-20C67AEFDDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B89AEB-F69C-47C6-A87F-20C67AEFDDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B89AEB-F69C-47C6-A87F-20C67AEFDDCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
